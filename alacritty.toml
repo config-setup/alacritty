@@ -1,0 +1,22 @@
+
+[window]
+
+opacity = 0.9
+
+padding.x = 10
+padding.y = 10
+
+decorations = "None"
+decorations_theme_variant = "Dark"
+
+startup_mode = "Windowed"
+
+
+[font]
+
+normal.family = "Hasklug Nerd Font Propo"
+bold.family = "Hasklug Nerd Font Propo"
+italic.family = "Hasklug Nerd Font Propo"
+bold_italic.family = "Hasklug Nerd Font Propo"
+
+size = 12.0
